@@ -1,0 +1,32 @@
+.task{
+    display: flex;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    align-items: center;
+}
+
+.task div{
+    width: 100%;
+}
+
+.task span{
+    color: rgb(99, 99, 99);
+}
+
+.task button{
+    display: flex;
+    border-radius: 100%;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    font-size: 1.6rem;
+    align-items: center;
+}
+
+.task button:hover{
+    background-color: red;
+}
