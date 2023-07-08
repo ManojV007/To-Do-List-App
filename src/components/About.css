@@ -1,0 +1,9 @@
+.about{
+    background-color: brown;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+}
+.about > h1{
+    padding: 100px;
+}

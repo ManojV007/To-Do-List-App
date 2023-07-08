@@ -1,0 +1,9 @@
+.contact{
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+}
+.contact > h1{
+    padding: 100px;
+}
